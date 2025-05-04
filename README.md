@@ -13,7 +13,7 @@ This is a simple user management system built with PHP and MySQL. It allows you 
 ## Technologies Used
 
 - PHP
-- MySQL (assumed, based on database connection in config.php)
+- MySQL
 - HTML, CSS, JavaScript
 
 ## Setup Instructions

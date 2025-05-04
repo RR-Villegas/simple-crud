@@ -29,6 +29,8 @@ This is a simple user management system built with PHP and MySQL. It allows you 
 - Open `index.php` in your browser to add a new user.
 - Open `fetch.php` to view the list of users with search and pagination features.
 
-## License
+## Admin Panel
 
-This project is open source and available under the [MIT License](LICENSE).
+- Open `admin.php` to manage users.
+- Edit user details or delete users from the admin interface.
+- Provides secure update and delete operations with user feedback.

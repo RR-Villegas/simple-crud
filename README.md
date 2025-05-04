@@ -8,7 +8,6 @@ This is a simple user management system built with PHP and MySQL. It allows you 
 - Client-side validation for user input.
 - View users in a paginated list.
 - Search users by username or email.
-- Responsive and clean user interface.
 
 ## Technologies Used
 
